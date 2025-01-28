@@ -1,5 +1,5 @@
-
-<h1 align="center">👋 Mohammed Abdallah</h1>
+<h1 align="center">👋</h1>
+<h1 align="center">Mohammed Abdallah</h1>
 <h3 align="center">Backend [.NET] developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambo6&label=Profile%20views&color=0e75b6&style=flat" alt="sambo6" /> </p>
